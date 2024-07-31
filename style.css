@@ -103,11 +103,37 @@ body{
     margin-left: 35px;
 }
 
-.img {
-    padding: auto;
-    margin-left: 35px;
+.summary-item.reaction .bx {
+    color: #ff5757;
 }
 
+.summary-item.reaction .score-summary {
+    color: #ff5757;
+}
+
+.summary-item.memory .bx {
+    color: #ffb01f;
+}
+
+.summary-item.memory .score-summary {
+    color: #ffb01f;
+}
+
+.summary-item.verbal .bx {
+    color: #00bb8f;
+}
+
+.summary-item.verbal .score-summary {
+    color: #00bb8f;
+}
+
+.summary-item.visual .bx {
+    color: #1125d6;
+}
+
+.summary-item.visual .score-summary {
+    color: #1125d6;
+}
 
 .continue-button {
     background-color: #333;
